@@ -1,6 +1,8 @@
 # 国内用户开通ChatGPT Plus完整指南，支付宝/微信轻松升级！
 
 对于国内用户来说，开通ChatGPT Plus一直是个头疼的问题。由于OpenAI不支持国内常见的支付方式，很多人只能望而却步。别担心，今天就给大家分享几种可行的开通方法。
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d21137c9-e4af-44a1-836c-735425cc53f7" />
+
 
 ## 为什么要升级Plus版本？
 
