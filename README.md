@@ -3,7 +3,6 @@
 对于国内用户来说，开通ChatGPT Plus一直是个头疼的问题。由于OpenAI不支持国内常见的支付方式，很多人只能望而却步。别担心，今天就给大家分享几种可行的开通方法。
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d21137c9-e4af-44a1-836c-735425cc53f7" />
 
-
 ## 为什么要升级Plus版本？
 
 ChatGPT Plus版本确实物有所值。每个月20美元，你就能获得GPT-4的使用权限，响应速度更快，高峰期也不用排队。最重要的是，你能优先体验新功能，比如代码解释器、插件商店等。对于经常使用AI辅助工作的人来说，这个投资很值得。
