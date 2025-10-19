@@ -1,13 +1,11 @@
 # 国内开通 ChatGPT Plus 完整指南 (2025 年最新)
 
-[](https://www.google.com/search?q=https://github.com/chatgpt-plus-chinese/recharge/stargazers)
-[](https://www.google.com/search?q=https://github.com/chatgpt-plus-chinese/recharge/network/members)
-[](https://www.google.com/search?q=https://github.com/chatgpt-plus-chinese/recharge/issues)
 
 本项目旨在提供一个**稳定、安全、详细**的教程，帮助国内用户解决在订阅 ChatGPT Plus 过程中遇到的信用卡限制问题。通过本指南，您将了解如何使用**支付宝**、**微信支付**等国内常见支付方式轻松完成升级。
 
 **[ ➡️ 点击这里访问我们的推荐服务 ](https://ai.muooy.com)**
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d21137c9-e4af-44a1-836c-735425cc53f7" />
 
 
 ## 为什么要升级 ChatGPT Plus？
